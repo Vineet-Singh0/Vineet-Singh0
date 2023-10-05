@@ -1,4 +1,3 @@
-[![MasterHead]([https://www.canva.com/design/DAFcIUWesrw/view](https://www.canva.com/design/DAFcIUWesrw/6sLn0E2jb6iXxtz2M8tKlg/watch?utm_content=DAFcIUWesrw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))](https://Vineet-Singh0.io)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vineet+Singh!;" />
 </h1>
@@ -24,7 +23,8 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<br/>
+<br/>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
