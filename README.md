@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vineet+Singh!;" />
 </h1>
+[![MasterHead](https://www.canva.com/design/DAFcIUWesrw/6sLn0E2jb6iXxtz2M8tKlg/view?utm_content=DAFcIUWesrw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://rishavchanda.io)
 <h3 align="center">A passionate frontend developer, Graphic Designer & Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
