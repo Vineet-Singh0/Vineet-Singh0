@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vineet+SIngh!;” />
     </a>
 </h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Vineet-Singh0/Vineet-Singh0/main/Github.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Vineet-Singh0/Vineet-Singh0/main/Banner.png"> </div>
 <h3 align="center">A passionate frontend developer, Graphic Designer & Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
