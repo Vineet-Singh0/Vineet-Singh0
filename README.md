@@ -1,5 +1,7 @@
 <h1 align="center">
+    <a href="https://git.io/typing-svg>
     <img src="https://readme-typing-svg.herokuapp.com/font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vineet+SIngh!;” />
+    </a>
 </h1>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/jVineet-Singh0/Vineet-Singh0/main/Github.png"> </div>
@@ -7,8 +9,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-singh0&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-singh0" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vineet-Singh0&label=Profile%20views&color=0e75b6&style=flat" alt=“Vineet”-Singh0 /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, SQL and Cloud Devops**
 
@@ -46,7 +46,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singh0&" alt="vineet-singh0" /></p>
 
-div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vineet-Singh0/Vineet-Singh0/output/github-contribution-grid-snake.svg" />
