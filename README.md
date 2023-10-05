@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vineet+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vineet+Singh!;" />
 </h1>
-<h3 align="center">A passionate frontend developer, Graphic Designer & Aspiring Data Scientist</h3>
+<h2 align="center">A passionate frontend developer, Graphic Designer & Aspiring Data Scientist</h2>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-singh0&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-singh0" /> </p>
