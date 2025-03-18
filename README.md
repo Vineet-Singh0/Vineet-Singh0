@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-singh0&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-singh0" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, SQL and Devops**
+- 🌱 I’m currently learning **Python, Java and Linux**
 
 - 👨‍💻 All of my projects are available at [https://vineet-singh0.github.io/Portfolio/](https://vineet-singh0.github.io/Portfolio/)
 
