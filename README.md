@@ -28,8 +28,11 @@ class Vineet:
 ---
 
 <h2>🛠️ Tools & Technologies</h2>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,flask,php,mysql,git,github,vscode,azure,aws,linux,bootstrap,streamlit,pandas,numpy,sklearn,seaborn,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,flask,php,mysql,sqlserver,git,github,vscode,azure,aws,linux,bootstrap,streamlit,fastapi,figma,jupyter,pandas,numpy,sklearn,seaborn,matplotlib,powerbi,excel,hadoop,spark" />
 </div>
 
 ---
