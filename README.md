@@ -1,52 +1,77 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vineet+Singh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Vineet+Singh;Data+Enthusiast+%7C+ML+Builder+%7C+Full-Stack+Coder"/>
 </h1>
-<h2 align="center">A passionate frontend developer, Graphic Designer & Aspiring Data Scientist</h2>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-singh0&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-singh0" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
+</p>
 
-- 🌱 I’m currently learning **Python, Java and Linux**
+---
 
-- 👨‍💻 All of my projects are available at [https://vineet-singh0.github.io/Portfolio/](https://vineet-singh0.github.io/Portfolio/)
+<h2>🚀 About Me</h2>
 
-- 📫 How to reach me **vineet.svr@gmail.com**
+```python
+class Vineet:
+    name = "Vineet Vinod Singh"
+    current_pursuit = "PG Diploma in Big Data Analytics @ CDAC Kharghar"
+    interests = ["Data Engineering", "ML", "Analytics Dashboards", "AI Apps"]
+    portfolio = "https://vineet-singh0.github.io/Portfolio/"
+```
 
-<div align="center"> 
-  <a href="mailto:vineet.svr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/vineet-vinod-singh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://vineet-singh0.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-<hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+- 🔭 Building ML-based web apps using **Flask**, **Streamlit**, and **FastAPI**
+- 💻 Skilled in **EDA, ML pipelines, SQL**, and **Cloud (Azure)**
+- 🌱 Currently exploring **Big Data (Hadoop, Spark)** and **AWS basics**
+- 🧠 Applying data science to **real-world insights** and intuitive apps
+
+---
+
+<h2>🛠️ Tools & Technologies</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,github,py,javascript,java,flutter,php,ai" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,figma,git,azure,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,flask,php,mysql,git,github,vscode,azure,aws,linux,bootstrap,streamlit,pandas,numpy,sklearn,seaborn,powerbi" />
 </div>
 
-<br/>
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Vineet-Singh0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Vineet-Singh0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet-Singh0&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h2>📂 Featured Projects</h2>
+
+- 🎯 [CareerLens](https://github.com/Vineet-Singh0/CareerLens-An-AI-Driven-Resume-Analyzer-Career-Advisor): AI-based Resume Analyzer & Job Role Predictor  
+- 🩺 [MediPredict](https://github.com/Vineet-Singh0/MediPredict): Disease prediction system using RF, XGBoost & Streamlit  
+- 🏨 [Hotel Booking EDA](https://github.com/Vineet-Singh0/Hotel_Booking_Analysis): Data-driven insights on booking trends & revenue  
+- 📅 [EventEase](https://github.com/Vineet-Singh0/EventEase): Flask-MySQL event management system for colleges  
+
+---
+
+<h2>📜 Certifications</h2>
+
+- Microsoft Azure Fundamentals – 2023  
+- UI/UX Design – Internshala – 2024  
+- Data Science & ML – GeeksforGeeks – 2022  
+- AI for India – GUVI / Skill India – 2021  
+
+---
+
+<h2>🏆 Achievements</h2>
+
+- 🥇 POSCO Asia Fellowship – $800 Grant  
+- 🥈 2nd Place – Jindal Science Conclave – Smart Agri System  
+- 🚀 Co-founded "Benefactor" – Led roadmap and user growth  
+
+---
+
+<h2>📈 GitHub Stats</h2>
+
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com?user=Vineet-Singh0&theme=tokyonight&hide_border=true" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Vineet-Singh0&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet-Singh0&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/><br/>
-<hr/>
+---
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+mail!">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+on+LinkedIn!">
 </h3>
-
